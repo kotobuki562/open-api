@@ -1,0 +1,5 @@
+output: api/sample-api.gen.go
+package: api
+generate:
+  modules: true
+  chi-server: true
